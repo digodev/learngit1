@@ -1,2 +1,2 @@
-i am learning git.
-it is a free software.
+I am learning git.
+It's a free software.
